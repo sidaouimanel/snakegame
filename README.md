@@ -8,8 +8,5 @@ Un jeu Snake classique implémenté en Java avec des patrons de conception tels 
 - Génération infinie de nourriture.
 - Sauvegarde et restauration d'état (Memento).
 
-## Exécution
-1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/TON-UTILISATEUR/Snake-Game.git
+
 Développé avec ❤️ 
